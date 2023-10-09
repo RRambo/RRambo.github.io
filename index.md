@@ -1,4 +1,4 @@
-## <Rami Kontio> web-tehtävä
+## Rami Kontio web-tehtävä
 
 
 ### **_Italics and Bold_**
